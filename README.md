@@ -1,2 +1,3 @@
 # virus
-a collection of my personal easy virus ("easy virus")
+a collection of my personals ("easy virus")
+
